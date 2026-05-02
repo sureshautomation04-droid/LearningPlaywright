@@ -7,6 +7,7 @@ console.log(statuses.at(-1));  //last element
 console.log(statuses.at(-2));
 console.log(statuses.at(-3));
 
+
 //Modify
 statuses[1] = "blocked";
 console.log(statuses);

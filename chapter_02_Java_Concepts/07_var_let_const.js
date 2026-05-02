@@ -20,18 +20,18 @@ function printHello(){
 console.log(a)
 
 //calling of the function
-printHello();  */
+printHello();   */
 
-/* var also allows re-declaration
-var a =10;
-var a =20;  // no error, re-declaration is allowed
-console.log(a) // 20 */
+ //var also allows re-declaration
+var b =10;
+var b =20;  // no error, re-declaration is allowed
+console.log(b) // 20 
 
 
 //let - Block Scoped
 
-let b = 40; //Global Scope
-console.log(b)
+let c = 40; //Global Scope
+console.log(c)
 
 //Defination of the function
 function printHello(){
@@ -51,7 +51,7 @@ console.log("let ->",b)  // 40
 
 
 //Calling of the function
-printHello();
+printHello(); 
 
 
 // let does not allow re-declaration in the same scope
@@ -59,14 +59,14 @@ printHello();
 //  let a = 10;
 //  let a = 10;
 
-let a = 10;
- a = 20;
- console.log(a)
+/* let d = 10;
+ d = 20;
+ console.log(d) */
 
 // var nn = "Suresh";
 // let nn =  'SureshA' //Error Identifier 'nn' has already been declared
 
-const pi = 3.14 //Constant variable
+/* const pi = 3.14 //Constant variable
 console.log(pi)
 
-pi = 3.14567; //Error: Assignment to constant variable
+pi = 3.14567; //Error: Assignment to constant variable */
