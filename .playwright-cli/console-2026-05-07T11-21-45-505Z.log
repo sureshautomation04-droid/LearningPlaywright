@@ -1,0 +1,6 @@
+[    2962ms] [LOG] WiserNotify pixel installed multiple time in this page @ https://courses.thetestingacademy.com/:40
+[    4286ms] [LOG]  @ https://cdn.newzenler.com/js/default/site.js?v=V3.6.00006.6:2798
+[    5156ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.newzenler.com/login?redirecturl=elements/bundles/Zenler/bundles/af7ae505a9eed503f8b8e6982036873e.woff2:0
+[    6421ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.newzenler.com/login?redirecturl=elements/bundles/Zenler/bundles/fee66e712a8a08eef5805a46892932ad.woff:0
+[    7650ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.newzenler.com/login?redirecturl=elements/bundles/Zenler/bundles/b06871f281fee6b241d60582ae9369b9.ttf:0
+[    9698ms] [LOG] JSHandle@node @ https://app.interakt.ai/kiwi-sdk/kiwi-sdk-17-prod-min.js?v=1778152908461:0
