@@ -4,7 +4,7 @@
 function openBrowser(callback) {
     console.log("opening the browser");
     setTimeout(function () {
-        console.log("Step 1 - browser starting...");
+        console.log("Step 1: browser starting...");
         callback();
     }, 500);
 }

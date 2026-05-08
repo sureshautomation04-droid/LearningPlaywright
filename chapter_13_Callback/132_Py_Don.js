@@ -9,7 +9,7 @@ function step2(callback) {
 }
 
 function step3(callback) {
-    console.log("Click button");
+    console.log("Enter credintials");
     callback();
 }
 

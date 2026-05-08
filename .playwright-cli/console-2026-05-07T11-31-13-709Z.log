@@ -4,3 +4,6 @@
 [    4329ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.newzenler.com/login?redirecturl=elements/bundles/Zenler/bundles/fee66e712a8a08eef5805a46892932ad.woff:0
 [    4957ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.newzenler.com/login?redirecturl=elements/bundles/Zenler/bundles/b06871f281fee6b241d60582ae9369b9.ttf:0
 [   15465ms] [LOG] JSHandle@node @ https://app.interakt.ai/kiwi-sdk/kiwi-sdk-17-prod-min.js?v=1778153475899:0
+[ 3616026ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.youtube.com/generate_204:0
+[ 3616027ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.youtube.com/generate_204:0
+[ 3616027ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.youtube.com/generate_204:0

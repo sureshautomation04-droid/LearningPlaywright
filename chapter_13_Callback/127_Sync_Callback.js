@@ -40,7 +40,7 @@ testResults.forEach((result, index) => {
     }
 });
 
-// Problem 4: Add Status Label
+// Problem 3: Add Status Label
 
 let testResults1 = ["Pass", "Fail"];
 
