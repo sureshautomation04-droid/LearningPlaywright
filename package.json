@@ -4,7 +4,8 @@
   "private": true,
    "type": "module",
   "scripts": {
-    "test": "npx playwright test --reporter=list"
+    "test": "npx playwright test --reporter=list",
+    "run:ts": "ts-node --transpile-only"
   },
   "devDependencies": {
     "@playwright/test": "^1.37.0"
